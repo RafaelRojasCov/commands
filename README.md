@@ -20,5 +20,5 @@ wmic os get osarchitecture
 - Django
   - For start environment: `path/to/env/scripts/activate.bat`
   - For stop environment:  `path/to/env/scripts/deactivate.bat`
-  - For run server in a project directory: `python manage.py runserver //it will run at localhost:8000`
-  - For create a new app inside a project: `python manage.py startapp app_name //it will create a new app`
+  - For run server in a project directory: `python manage.py runserver` //it will run at localhost:8000
+  - For create a new app inside a project: `python manage.py startapp app_name` //it will create a new app
