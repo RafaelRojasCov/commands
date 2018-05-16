@@ -9,6 +9,8 @@ List of usefull shorthands found in the Internet
 ``` 
 wmic os get caption
 wmic os get osarchitecture
+doskey nameofmacro="path/to/executable.bat"
+doskey nameofalias="nameofcommand"
 ```
 
 ## ***Python***
