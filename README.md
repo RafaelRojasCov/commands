@@ -19,6 +19,9 @@ doskey nameofalias="nameofcommand"
   - For install MySQL Database Connector: `pip install mysql-python`
   - For use it in Python program: `import MySQLdb`
   
+- Pip Package
+  - For install fake data population scripts: `pip install Faker`
+  
 ## ***Django***
 - For start environment: `path/to/env/scripts/activate.bat`
 - For stop environment:  `path/to/env/scripts/deactivate.bat`
