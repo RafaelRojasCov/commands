@@ -27,3 +27,4 @@ doskey nameofalias="nameofcommand"
 - For create a new app inside a project: `python manage.py startapp app_name`
 - Create the SQL database from models: `python manage.py migrate`
 - Register the changes of Models to the app: `python manage.py makemigrations nameofapp`
+- Create a super user: `python manage.py createsuperuser`
