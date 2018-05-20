@@ -21,7 +21,10 @@ doskey nameofalias="nameofcommand"
   
 - Pip Package
   - For install fake data population scripts: `pip install Faker`
+  - For install flask API framework: `pip install flask`
+  - For install virtual env: `pip -m install virtualenv`
   
+- For create a new env `python -m venv path/to/virtual/environment`
 ## ***Django***
 - For start environment: `path/to/env/scripts/activate.bat`
 - For stop environment:  `path/to/env/scripts/deactivate.bat`
