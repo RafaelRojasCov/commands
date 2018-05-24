@@ -23,6 +23,7 @@ doskey nameofalias="nameofcommand"
   - For install fake data population scripts: `pip install Faker`
   - For install flask API framework: `pip install flask`
   - For install virtual env: `pip -m install virtualenv`
+  - For install flask & Flask-REST: `pip install Flask-RESTful`
   
 - For create a new env `python -m venv path/to/virtual/environment`
 ## ***Django***
@@ -34,3 +35,4 @@ doskey nameofalias="nameofcommand"
 - Create the SQL database from models: `python manage.py migrate`
 - Register the changes of Models to the app: `python manage.py makemigrations nameofapp`
 - Create a super user: `python manage.py createsuperuser`
+
