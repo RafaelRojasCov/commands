@@ -24,6 +24,7 @@ doskey nameofalias="nameofcommand"
   - For install flask API framework: `pip install flask`
   - For install virtual env: `pip -m install virtualenv`
   - For install flask & Flask-REST: `pip install Flask-RESTful`
+  - For Auth & Logging in Flask: `pip install Flask-JWT`
   
 - For create a new env `python -m venv path/to/virtual/environment`
 ## ***Django***
