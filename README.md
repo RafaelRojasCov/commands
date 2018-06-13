@@ -27,6 +27,7 @@ doskey nameofalias="nameofcommand"
   - For Auth & Logging in Flask: `pip install Flask-JWT`
   
 - For create a new env `python -m venv path/to/virtual/environment`
+
 ## ***Django***
 - For start environment: `path/to/env/scripts/activate.bat`
 - For stop environment:  `path/to/env/scripts/deactivate.bat`
@@ -36,4 +37,14 @@ doskey nameofalias="nameofcommand"
 - Create the SQL database from models: `python manage.py migrate`
 - Register the changes of Models to the app: `python manage.py makemigrations nameofapp`
 - Create a super user: `python manage.py createsuperuser`
+
+
+## ***Node.js***
+- For install React: `npm install -g create-react-app`
+- For install tachyons: `npm install --save tachyons`
+- For install Redux: `npm install --save redux`
+- For install the connector between React & Redux: `npm install --save react-redux`
+- For install enzyme testing package: `npm install --save enzyme-adapter-react-{version}`
+  - {version} means the number of the version of React project where we want to install on it.
+- For install styled-components library for React: `npm install --save styled-components`
 
