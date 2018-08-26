@@ -60,4 +60,6 @@ doskey nameofalias="nameofcommand"
   - import { faFacebook, faTwitter } from '@fortawesome/fontawesome-free-brands';
   - import { faEnvelope, faPhoneSquare } from '@fortawesome/fontawesome-free-solid';
   ```
+  - JSX usage:
+    `<FontAwesomeIcon icon={faFacebook} />`
 
