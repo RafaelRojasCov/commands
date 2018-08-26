@@ -39,7 +39,7 @@ doskey nameofalias="nameofcommand"
 - Create a super user: `python manage.py createsuperuser`
 
 
-## ***Node.js***
+## ***NodeJS***
 - For install React: `npm install -g create-react-app`
 - For install tachyons: `npm install --save tachyons`
 - For install Redux: `npm install --save redux`
@@ -47,4 +47,11 @@ doskey nameofalias="nameofcommand"
 - For install enzyme testing package: `npm install --save enzyme-adapter-react-{version}`
   - {version} means the number of the version of React project where we want to install on it.
 - For install styled-components library for React: `npm install --save styled-components`
+- For install font-awesome icons:
+  - `npm i --save @fortawesome/fontawesome-svg-core`
+  - `npm i --save @fortawesome/free-solid-svg-icons`
+  - `npm i --save @fortawesome/react-fontawesome`
+  - `npm i --save @fortawesome/fontawesome-free-solid`
+  - `npm i --save @fortawesome/fontawesome-free-brands`
+  - `npm i --save @fortawesome/fontawesome-free-regular`
 
