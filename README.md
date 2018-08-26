@@ -54,4 +54,11 @@ doskey nameofalias="nameofcommand"
   - `npm i --save @fortawesome/fontawesome-free-solid`
   - `npm i --save @fortawesome/fontawesome-free-brands`
   - `npm i --save @fortawesome/fontawesome-free-regular`
+- Usage of font-awesome icons:
+  ```
+  Inside component:
+  - import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+  - import { faFacebook, faTwitter } from '@fortawesome/fontawesome-free-brands';
+  - import { faEnvelope, faPhoneSquare } from '@fortawesome/fontawesome-free-solid';
+  ```
 
