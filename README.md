@@ -44,6 +44,7 @@ doskey nameofalias="nameofcommand"
 - For install tachyons: `npm install --save tachyons`
 - For install Redux: `npm install --save redux`
 - For install the connector between React & Redux: `npm install --save react-redux`
+- For install the Middleware between Actions & Reducers in Redux: `npm install --save redux-logger`
 - For install enzyme testing package: `npm install --save enzyme-adapter-react-{version}`
   - {version} means the number of the version of React project where we want to install on it.
 - For install styled-components library for React: `npm install --save styled-components`
